@@ -1,0 +1,2 @@
+Metinler arasýndaki benzerlik skoru: 0.67
+Jaccard Benzerlik Skoru: 0.67

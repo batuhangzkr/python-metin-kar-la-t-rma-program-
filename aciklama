@@ -1,0 +1,7 @@
+Algoritmam aşağıda belirttiğim şekilde çalışıyor
+
+İki metni küçük harfe çevirir ve kelimelere ayırır böylece büyük-küçük harf farklılıklarından etkilenmez.
+Her iki metindeki kelimelerin frekanslarını Counter ile hesaplar.
+İki metinde ortak olan kelimelerin frekanslarının minimumlarını toplayarak kesişim sayısını bulur.bu her iki metinde de geçen ve en az sayıda olan kelimelerin toplamını verir.
+Her iki metindeki tüm kelimelerin frekanslarını toplayarak toplam kelime sayısını hesaplar.
+Benzerlik skorunu iki kat kesişim sayısını toplam kelime sayısına bölerek hesaplar.bu skor 0 ile 1 arasında bir değer alır.1 tam eşleşmeyi 0 ise hiçbir eşleşme olmadığını gösterir.
